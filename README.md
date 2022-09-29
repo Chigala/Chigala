@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chigala Kingsley
 ========================================================================================================================================
 
-Full-stack web developer
+Full-stack developer
 ------------------------
 
-I started coding a year back because of how powerful
+I’m a result-oriented Full Stack developer with 4 years of experience and proven programming knowledge.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [chigala11@gmail.com](mailto:chigala11@gmail.com)
-* 🧠  I'm learning Next-js, web3 and PostgreSQL
+* 🧠  I'm learning web3 currently
 * 🤝  I'm open to collaborating on anything cool!
-* ⚡  I love learning new stuffs every single day, I get bored when I use a particular stack for a long period of time.
+* ⚡  I love learning new stuffs.
 
 ### Skills
 
