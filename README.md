@@ -8,7 +8,6 @@ I’m a result-oriented Full Stack developer with 4 years of experience and prov
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [chigala11@gmail.com](mailto:chigala11@gmail.com)
-* 🧠  I'm learning web3 currently
 * 🤝  I'm open to collaborating on anything cool!
 * ⚡  I love learning new stuffs.
 
